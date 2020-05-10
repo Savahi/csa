@@ -1,0 +1,102 @@
+		.a-table { display:table; min-width:100%; }                            
+             
+		/*
+		.a-table:nth-child(even) div { background-color:#909090; }
+		.a-table:nth-child(odd) div { background-color:#ffffff; }
+		*/
+	
+		/*.a-table::after {
+			content: ""; clear: both; display: table;
+		}*/
+		.a-table-row { display:table-row; }
+
+		/*.a-table:nth-child():hover div { background-color:#808080; }*/
+		.a-table-row div { 
+			display:table-cell; vertical-align:top; cursor:pointer; margin:0px; padding:4px;
+			box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+		}
+		/*.a-table-row div:not(:hover) { background-color:#ffffff;  }*/
+		/*.a-table .a-table-row:nth-child(even) div { border-top:1px solid #dfdfdf; border-bottom:1px solid #f0f0f0; }*/
+		.a-table .a-table-row:not(:hover) div:nth-child(even) { background-color:#f7f7f7; }
+		.a-table .a-table-row:not(:hover) div:nth-child(odd) { background-color:#ffffff; }
+	
+		.a-table-header { display:table-header-group; background-color:#ffffff; }
+		.a-table-header div { 
+			display:table-cell; font-size:110%;
+			margin:0px; padding:4px; border-bottom:2px solid #dfdfdf; background-color:#ffffff; text-align:center; 
+			box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+		}
+		.a-table .a-table-header div:nth-child(even) { background-color:#f7f7f7; }
+
+		.a-table-left-corner { 
+			cursor:pointer; text-align:center; 
+		}
+		.a-table-row-title { 
+			cursor:default; text-align:left; 
+		}
+		.a-table-row-title div { display:inline-block; 
+			box-sizing:border-box; margin:4px; padding:4px 8px 4px 8px; font-size:14px; border:1px solid #dfdfdf; border-radius:8px; }
+
+		.a-table div.a-table-wide { width:75%; }
+		.a-table div.a-table-half { width:50%; }
+		.a-table div.a-table-narrow { width:25%; }
+
+		.a-table div span { cursor:pointer; }
+
+		.a-table div.a-table-vline {
+			position:absolute; padding:0px; border-left:1px solid #afafaf;
+		}
+		.a-table div.a-table-hline {
+			position:absolute; padding:0px; border-top:1px solid #afafaf;
+		}
+
+		@media only screen and (max-width: 799px) {
+			.a-table div.a-table-wide { width:100%; }
+			.a-table div.a-table-half { width:100%; }
+			.a-table div.a-table-narrow { width:50%; }
+		}
+
+	.a-dashboard-icon { font-size:110%; padding:8px; background-color:white; border-radius:4px; border:1px solid lightgray; }
+	.a-dashboard-menu { margin-left:12px; margin-right:12px; font-size:120%; }
+
+	.a-dashboard-back-button-active { color:#4f4f4f; border:1px solid #4f4f4f; background-color:#dfdfdf; cursor:pointer; }
+	.a-dashboard-back-button-disabled { color:#afafaf; border:1px solid #afafaf; cursor:default; }
+
+	/*
+	.a-dashboard-action-button { width:28px; height:28px; overflow:hidden; float:left; display:inline-block;
+		box-sizing:border-box; padding:2px; font-size:14px; border:1px solid #afafaf; border-radius:4px; }
+	#aDashboardMenu span, #uDashboardLinks span, #fDashboardLinks span, #dDashboardLinks span { 
+		cursor:pointer; padding:8px 4px 4px 4px; font-size:110%; font-family:verdana;
+	}
+	*/ 
+	.nav li { font-family:verdana; }
+	.tab-content div { margin:8px; }
+	.tab-content div span { cursor:pointer; margin:0px 4px 0px 4px; font-size:110%; font-family:verdana; } 
+	.tab-content div span:hover { color:black; } 
+
+	.tab-content div span.active { color:#2f2f2f; font-weight:bold; } 
+
+	#aDashboardDataTitleContainer { 
+		box-sizing:border-box; color:#2f2f2f; background-color:#dfdfdf; margin:0px; padding:12px 12px 12px 12px; font-size:110%; font-weight:bold; }
+
+	#aDashboardDataArray { position:relative; width:100%; max-width:100%;
+		border:1px dotted gray; background-color:#efefef; overflow-x:auto; overflow-y:auto; }
+
+	#aDashboardDataArrayEditWindow { display:none; position:absolute; background-color:#ffffff; border-radius:8px; border:1px dotted #4f4f4f; }
+	#aDashboardDataArrayEditWindowTitle { padding:8px; color:#4f4f4f; background-color:#efefef; border-radius:8px; }
+	#aDashboardDataArrayEditWindowControls { padding:8px; background-color:#ffffff; }
+	#aDashboardDataArrayEditWindowContainer { padding:2px; height:200px; background-color:#ffffff; overflow-x:auto; overflow-y:auto; }
+
+	#aDashboardDataEditWindowIcon { width:1px; height:1px; }
+	#aDashboardDataEditWindowIconLabel { 
+		box-sizing:border-box; width:40px; height:40px; float:left; margin-left:14px; padding:2px 5px; 
+		background-color:lightgray; border:1px solid gray; border-radius:8px; font-size:24px; cursor:pointer; }
+	#aDashboardDataEditWindowIconReset { 
+		box-sizing:border-box; width:40px; height:40px; float:left; margin-left:8px; padding:2px 8px; 
+		background-color:lightgray; border:1px solid gray; border-radius:8px; font-size:24px; cursor:pointer; }
+	#aDashboardDataEditWindowIconDelete { 
+		box-sizing:border-box; width:40px; height:40px; float:left; margin-left:8px; padding:2px 8px; 
+		background-color:lightgray; border:1px solid gray; border-radius:8px; font-size:24px; cursor:pointer; }
+	#aDashboardDataEditWindowIconPreview { cursor:pointer; float:left; width:60px; height:60px; border-radius:8px; }
+
+	#uDashboardSuspended { cursor:pointer; color:#0202e0; }

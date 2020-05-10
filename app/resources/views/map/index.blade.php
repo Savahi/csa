@@ -1,0 +1,87 @@
+@extends('layout')
+
+@section('pageTitle')
+	{{ $htexts['page_map']->title }}
+@endsection
+
+@section('title')
+	{{ $htexts['page_map']->title }}
+@endsection
+
+@section('head_extra')
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+
+    <style>
+        .ol-attribution.ol-logo-only,
+        .ol-attribution.ol-uncollapsible {
+            max-width: calc(100% - 3em) !important;
+            height: 1.5em !important;
+        }
+
+        .ol-control button,
+        .ol-attribution,
+        .ol-scale-line-inner {
+            font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif !important;
+        }
+
+        .ol-popup {
+            font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif !important;
+            font-size: 12px;
+            position: absolute;
+            background-color: white;
+            -webkit-filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));
+            filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #cccccc;
+            bottom: 12px;
+            left: -50px;
+            min-width: 100px;
+        }
+
+        .ol-popup:after,
+        .ol-popup:before {
+            top: 100%;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .ol-popup:after {
+            border-top-color: white;
+            border-width: 10px;
+            left: 48px;
+            margin-left: -10px;
+        }
+
+        .ol-popup:before {
+            border-top-color: #cccccc;
+            border-width: 11px;
+            left: 48px;
+            margin-left: -11px;
+        }
+
+        .ol-popup-closer {
+            text-decoration: none;
+            position: absolute;
+            top: 2px;
+            right: 8px;
+        }
+
+        .ol-popup-closer:after {
+            content: "✖";
+            color: #c3c3c3;
+        }
+
+    </style>
+@endsection
+
+@section('content')
+	
+	@include('map.map')
+
+@endsection
+       

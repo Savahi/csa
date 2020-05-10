@@ -1,0 +1,10 @@
+id	title	crop_id	farm_id	start_by_plan	finish_by_plan	amount_by_plan	square	descr	start_prognosed	finish_prognosed	amount_prognosed
+1	Eisberg	111	1	2020-03-15	2020-06-01	96	40	Mythos, seeds, kg: 0.01, number of plants: 480, greenhouse	2020-03-15	2020-06-01	96
+2	Romano	112	1	2020-02-20	2020-05-15	96	40	Valmaine, seeds, kg: 0.01, number of plants: 480, greenhouse	2020-02-20	2020-05-15	96
+3	Kopfsalat	10	1	2020-03-15	2020-06-01	96	40	Pirat, seeds, kg: 0.01, number of plants: 480, greenhouse	2020-03-15	2020-06-01	96
+4	Kopfsalat	11	1	2020-02-20	2020-05-30	96	40	Lucinde, seeds, kg: 0.01, number of plants: 480, greenhouse	2020-02-20	2020-05-30	96
+5	Spinat	100	1	2020-04-01	2020-05-31	60	100	Matador, seeds, kg: 0.01, number of plants: 2400, greenhouse	2020-04-01	2020-05-31	60
+6	Feldsalat	68	1	2020-02-12	2020-06-09	35	73	Elan, seeds, kg: 0.01, number of plants: 876, greenhouse	2020-02-12	2020-06-09	35
+10	Postelein	13	1	2020-02-12	2020-06-09	60	25	Winterpostelein, seeds, kg: 0.01, number of plants: 300, greenhouse	2020-02-12	2020-06-09	60
+12	Paprica 	116	1	2020-02-20	2020-06-16	60	20	Yolo Wonder, seeds, kg: 0.01, number of plants: 120, greenhouse	2020-02-20	2020-06-16	60
+13	Wirsing	17	1	2020-02-15	2020-06-01	500	125	Winterfürst, seeds, kg: 0.03, number of plants: 7000, greenhouse	2020-02-15	2020-06-01	500

@@ -1,0 +1,132 @@
+id	title	descr	icon	title_en	title_de	crop_code	group_name	group_code	variety_id	variety_name
+1	смородина красная		rib_rub_rosetta.jpg	red currant	Johannesbeere rot	ber1	berries	ber	1	rosetta
+2	калина		vib_opu_wild.jpg	guelder rose	Schneeball	ber10	berries	ber	1	wild
+3	шиповник		ros_can_wild.jpg	rosehip	Hagebutte	ber11	berries	ber	1	canina
+4	смородина черная		rib_nig_trivial.jpg	black currant	Johannesbeere schwarz	ber2	berries	ber	1	black purl
+5	крыжовник		rib_uva_cri.jpg	gooseberry	Stachelbeere	ber3	berries	ber	1	njamnjam
+6	клубника		fra_ves_honeoye.jpg	strawberry	Erdbeere	ber4	berries	ber	1	honeoye
+7	земляника		fra_ves_wild.jpg	wild strawberry	Walderdbeere	ber5	berries	ber	1	wild
+8	малина		rub_ide_wild.jpg	raspberry	Himmbeere	ber6	berries	ber	1	wild
+9	ежевика		rub_fru_wild.jpg	blackberry	Brombeere	ber7	berries	ber	1	wild
+10	ежемалина		Ezhemalina1.jpg	black x raspberry	Bromxhimmbeere	ber8	berries	ber	1	zero
+11	облепиха		hypo_rham.jpg	seabuckthorn	Sanddorn	ber9	berries	ber	1	diva
+12	бeлая капуста		G219_10.jpg	white cabbage	Weißkohl	cab1	cabbage	cab	1	Dottenfelder Dauer
+13	бeлая капуста		G220_10.jpg	white cabbage	Weißkohl	cab1	cabbage	cab	2	Türkis
+14	бeлая капуста		G218_11.jpg	white cabbage	Weißkohl	cab1	cabbage	cab	3	Marner Lagerweiß
+15	коническая		G217_10.jpg	hispi cabbage	Spitzkohl	cab10	cabbage	cab	1	Filderkraut
+16	брокколи		G643_9.jpg	broccoli	Broccoli	cab11	cabbage	cab	1	Calinaro
+17	цветная		G199_9.jpg	cauliflower	Bluhmenkohl	cab12	cabbage	cab	1	Odysseus
+18	красная		G207_10.jpg	red cabbage	Rotkohl	cab2	cabbage	cab	1	Amarant
+19	савойская		G223_10.jpg	savoy cabbage	Wirsing	cab3	cabbage	cab	1	Winterführst2
+20	брюссельская		G609_9.jpg	sprouts	Rosenkohl	cab4	cabbage	cab	1	Idemar
+21	пекинская		YA09C.jpg	chinese cabbage	Chinakohl	cab5	cabbage	cab	1	Granat
+22	кейл		G225_10.jpg	Kale	Grünkohl	cab6	cabbage	cab	1	Halbhoher grüner Krauser
+23	кейл		G653_9.jpg	Kale	Grünkohl	cab6	cabbage	cab	2	Nero di toscana (AS)
+24	кейл		G743.jpg	Kale	Grünkohl	cab6	cabbage	cab	3	Red Russian Kale
+25	пакчой		PACK_CHOI_GOL.jpg	packchoi	Packchoi	cab7	cabbage	cab	1	Gol
+26	мицуна		G249_11.jpg	mizuna	Mizuna	cab8	cabbage	cab	1	Mizuna
+27	кольраби		G227_10.jpg	kohlrabi	Kohlrabi	cab9	cabbage	cab	1	Azurstar
+28	кольраби		G230_10.jpg	kohlrabi	Kohlrabi	cab9	cabbage	cab	2	Superschmelz
+29	кольраби		G729.jpg	kohlrabi	Kohlrabi	cab9	cabbage	cab	3	Enrico
+30	кольраби		G232_9.jpg	kohlrabi	Kohlrabi	cab9	cabbage	cab	4	Blaro
+31	огурцы		G172_9.jpg	cucumber	Gurke	cuc1	cucurbitaceae	cuc	1	Helena
+32	цукини		G449_9.jpg	zuccini medium	Zuccini medium	cuc2	cucurbitaceae	cuc	1	Alberello
+33	цукини		G451_9.jpg	zuccini medium	Zuccini medium	cuc2	cucurbitaceae	cuc	2	Zuboda
+34	тыква		G263_10.jpg	pumpkin	Kürbis	cuc3	cucurbitaceae	cuc	1	Green Hokaido
+35	кабачок		G620_9.jpg	big zuccini	Zuccini groß	cuc4	cucurbitaceae	cuc	1	Sarafina
+36	патисон		ku51.jpg	botton squash	Patisson	cuc5	cucurbitaceae	cuc	1	PATISSON BLANC
+37	рапунцель		cam_rap_wild.jpg	rapunzel salad	Rapunzel	exo1	rare vegetables	exo	1	Capanula_rapunculus
+38	якон		sol_son_nl.jpg	yacon	Yackon	exo2	rare vegetables	exo	1	Smallanthus sonchifolius
+39	кукуруза		zu31.jpg	corn	Mais	ext1	other vegetables	ext	1	SCHWARZER POPCORN MAIS
+40	кукуруза		zu42.jpg	corn	Mais	ext1	other vegetables	ext	2	SCHWARZER TORTILLAMAIS
+41	кукуруза		zu58.jpg	corn	Mais	ext1	other vegetables	ext	3	DAMAUN KS
+42	подсолнух		b143.jpg	sunflower	Sonnenblüme	ext2	other vegetables	ext	1	Atlanta
+43	сельдерей черенковый		G404_8.jpg	celery stems	Stangensellerie	ext3	other vegetables	ext	1	Mars
+44	цветы цукини		G450_9.jpg	zuccini flower	Zucciniblüte	flo1	flower	flo	1	cocozelle von Tripolis
+45	артишок		ar20.jpg	artichoke	Artischocke	flo2	flower	flo	1	Lomanita
+46	яблоки		malus_strifel.jpg	apples	Äpfel	fru1	fruits	fru	1	Strieffel
+47	сливы		prun_wild.png	plums	Zwetchgen und Pflaumen	fru2	fruits	fru	1	wild
+48	груши		pyr_com_obelisk.jpg	pears	Birnen	fru3	fruits	fru	1	obelisk
+49	грибы		bol_edu_wild.jpg	wild mushrooms	Waldschwamerl	fun4	fungi	fun	1	Steinpilz
+50	календула		b113.jpg	marigold	Ringelblüme	hea1	healing plants	hea	1	Gelbe
+51	окопник			comfrey	Beinwell	hea2	healing plants	hea		
+52	мята			mint	Minze	her1	herbs	her		
+53	тимъян			thym	Thymian	her2	herbs	her		
+54	орегано			oregano	Oregano	her3	herbs	her		
+55	розмарин			rosemary	Rosmarin	her4	herbs	her		
+56	чабер			savory	Bohnenkraut	her5	herbs	her		
+57	кореандр			coreander	Koreander	her6	herbs	her		
+58	петрушка		G312_9.jpg	parsley	Petersilie	her7	herbs	her	1	Schnitt
+59	диль		K20_10.jpg	dill	dill	her8	herbs	her		
+60	лаванда			lavender	Lavendel	her9	herbs	her		
+61	горох сахарный		G161_10.jpg	sugarpea	Zuckererbse	leg1	legumes	leg	1	Ambrosia
+62	фасоль стручковая		G132_10.jpg	horsebean	Buschbohne	leg2	legumes	leg	1	Helios
+63	бобы		D203_2.jpg	limabean	Limabohne	leg3	legumes	leg	1	Bioro
+64	микроредис			microradish	Mikroradisschen	mic1	microgreens	mic		
+65	красная микрокапуста		micro_redcab1.jpg	micro redcabbage	Mircorotkohl	mic2	microgreens	mic	1	Amarant
+66	микрогорох			micropea	Mikroerbse	mic3	microgreens	mic		
+67	микроподсолнух			microsunflower	Mikrosonnenblüme	mic4	microgreens	mic		
+68	микромангольд		micro_mangold.jpeg	microchard	Mikromangold	mic5	microgreens	mic	1	Rainbow
+69	микрощавель			microdock	Mikroampfer	mic6	microgreens	mic		
+70	крессе		cresse.jpg	cresse	Kresse	mic7	microgreens	mic	1	French cress
+71	микросалат		micro_salat1.jpg	microlettuche	Microsalat	mic8	microgreens	mic	1	Eis
+72	микробазилик			microbasil	Mikrobasilik	mic9	microgreens	mic		
+73	мини шпинат			minispinach	Minispinat	min1	minivegetables	min		
+74	минипакчой		pack_choi_ mini.jpg	minipackchoi	minipackchoi	min10	minivegetables	min	1	pack choi
+75	минипорей			miniporee	Miniporee	min11	minivegetables	min		
+76	миницукини до 10 см			minizuccini	Minizuccini	min12	minivegetables	min		
+77	мини мангольд			minimangold	Minimangold	min2	minivegetables	min		
+78	мини романо			miniromano	Miniromano	min4	minivegetables	min		
+79	мини листовой микс			baby leaf mix	baby leaf mix	min5	minivegetables	min		
+80	мини кукуруза			minicorn	Minimais	min6	minivegetables	min		
+81	мини морковка		redelika_mini.jpg	minicarrot	Minikarote	min7	minivegetables	min	1	rodelika
+82	мини айсберг			minieisberg	Minieisberg	min8	minivegetables	min		
+83	минифенхель		fino.png	minifenchel	Minifenchel	min9	minivegetables	min	1	fino
+84	лесной орех			hazelnut	Haselnuss	nut1	nuts	nut		
+85	лук репчатый		G461_9.jpg	onions	Gemüsezwiebel	oni1	onions	oni	1	sturon
+86	лук шалот			shallots	Schalotte	oni2	onions	oni		
+87	лук зеленый		G466_9.jpg	green onions	Heckzwiebel	oni3	onions	oni	1	ishikrona
+88	лук резанец			wild chives	Schnittlauch	oni4	onions	oni		
+89	порей		G323.jpg	Poree	Poree	oni5	onions	oni	1	hannibal
+90	редис		G618_9.jpg	radish	Radiesschen	roo1	roots	roo	1	french breakfast2
+91	корневой сельдерей		G404_8 (1).jpg	root sellery	Wurzelsellerie	roo10	roots	roo	1	mars
+92	скорцонера		G400_7.jpg	scorzonera hispanica	Schwarzwurzel	roo11	roots	roo	1	Hoffmanns Schwarze Pfahl
+93	пастернак		G291_9.jpg	parsnip	Pastinake	roo12	roots	roo	1	Aromata
+94	корень петрушки		G315_7.jpg	parsley root	Wurzelpetersilie	roo13	roots	roo	1	Halblange
+95	устричный корень		G625_9.jpg	oyster plant	Haferwurz	roo14	roots	roo	1	Haferwurz
+96	картофель		pot_white_bol.jpeg	potato	Kartoffeln	roo15	roots	roo	1	white pot
+97	фенхель		G190_10.jpg	fenchel	Fenchel	roo16	roots	roo	1	Fino
+98	французская репа		G669_9.jpg	Navets	Herbstrübe	roo2	roots	roo	1	Blanc globe a collet violet
+99	турнепс			turnips	Steckrübe	roo3	roots	roo		
+100	репа		G634_9.jpg	swede	Kohlrübe	roo4	roots	roo	1	Petrowski
+101	редька		G335_9.jpg	erfurter radish	schwarzrettich	roo5	roots	roo	1	Runder schwarzer Winter
+102	морковь овощная		G280A_13.jpg	carrots	Möhre	roo6	roots	roo	1	Rodelika
+103	морковь овощная		G288_9.jpg	carrots	Möhre	roo6	roots	roo	2	Oxhella
+104	дайкон			daicon	Daikon rettich	roo7	roots	roo		
+105	хрен			horseradisch	Meerrettich	roo8	roots	roo		
+106	свекла		G345_9.jpg	beets	Rote Beete	roo9	roots	roo	1	Robuschka
+107	корнсалат		G184_11.jpg	corn salad	Feldsalat	sal	minivegetables	sal	1	elan
+108	латук розетка		G603_10.jpg	lettuche	Kopfsalat	sal1	salat	sal	1	Lucinde
+109	мангольд листовой		G648_9.jpg	chard leaf	Blattmangold	sal10	salat	sal	1	Rainbow
+110	мангольд стеблевой		G270_10.jpg	chard shaft	Stielmangold	sal11	salat	sal	1	Glatter Silber3
+111	шпинат		G412_9.jpg	Spinach	Spinat	sal12	salat	sal	1	Matador
+112	руккола культурная		G480_10.jpg	eruca	Kulturrauke	sal13	salat	sal	1	Ruca
+113	щавель		K35_10.jpg	dock	Ampfer	sal14	salat	sal	1	Kultursauerampfer
+114	руккола дикая		G481_9.jpg	ruccola	Rauke	sal15	salat	sal	1	wilde rauke
+115	портулак зимний		G435_9.jpg	purslane	Portulak	sal16	salat	sal	1	postelein
+116	ендивия		G389A_9.jpg	endive	Endivie	sal17	salat	sal	1	wallonne frisee
+117	салатная горчица		G246_9.jpg	french mustard	Blattsenf	sal18	salat	sal	1	mix
+118	ботавия розетка		G372_9.jpg	botavia lettuche	Botavia	sal2	salat	sal	1	torengo
+119	лолло россо розетка		G380_9.jpg	lollo rosso	lollo rosso	sal3	salat	sal	1	lollo rosso
+120	лолло бионда розетка		G381_9.jpg	lollo bionda	lollo bionda	sal4	salat	sal	1	lollo bionda
+121	салатмикс лист		salat_mix.jpg	salad mix	Salatmix	sal5	salat	sal	1	mix
+122	айсберг розетка		G604_10.jpg	Eisberg	Eissalat	sal6	salat	sal	1	marius
+123	романо розетка		G376_9.jpg	romano	Römer	sal8	salat	sal	1	valmaine
+124	романо розетка		ls14.jpg	romano	Römer	sal8	salat	sal	1	Forellenschluss
+125	азиясалаты		G246_9_1.jpg	asia salad	Asiasalat	sal9	salat	sal	1	mix
+126	томаты чери		G623_9.jpg	cherry tomato	Cherrytomaten	sol1	solanaceae	sol	1	black cherry
+127	томаты крупноплодные		G431_9.jpg	beef tomato	Fleischtomaten	sol2	solanaceae	sol	1	berner rose
+128	томаты цветные		G750.jpg	color tomatoes	Farbtomaten	sol3	solanaceae	sol	1	Heart of Gold (AS)
+129	паприка		G742.jpg	sweet paprica	Paprika	sol4	solanaceae	sol	1	BSAG-PPR-PDC (AS)
+130	острый перец		G677_9.jpg	hot paprica	Scharfe Paprika	sol5	solanaceae	sol	1	corno rosso
+131	баклажаны		G641_9.jpg	aubergine	Aubergienen	sol6	solanaceae	sol	1	zora
